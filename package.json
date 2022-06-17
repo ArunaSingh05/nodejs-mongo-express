@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-mongo-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunaSingh05/nodejs-mongo-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunaSingh05/nodejs-mongo-express/issues"
+  },
+  "homepage": "https://github.com/ArunaSingh05/nodejs-mongo-express#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.8.1"
+  }
+}
